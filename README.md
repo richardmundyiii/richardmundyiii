@@ -16,7 +16,7 @@ Here are some ideas to get you started:
 
 <div style="text-align: center">
   
-![DJing Photo](https://i.imgur.com/IcMBgum.jpg)
+<img src="https://i.imgur.com/IcMBgum.jpg") width="40%">
   
   ![LinkedIn](https://img.shields.io/badge/linkedin-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white)
   ![GitHub](https://img.shields.io/badge/github-%23121011.svg?style=for-the-badge&logo=github&logoColor=white)
