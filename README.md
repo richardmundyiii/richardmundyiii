@@ -3,8 +3,7 @@
 
 <div style="text-align: center">
   
-  ![](https://i.imgur.com/IcMBgum.jpg =width=200x200)
-  <img src="https://i.imgur.com/IcMBgum.jpg" width="100" height="100">
+  <img src="https://i.imgur.com/IcMBgum.jpg" width="200" height="200">
 
   
   ![LinkedIn](https://img.shields.io/badge/linkedin-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white)
