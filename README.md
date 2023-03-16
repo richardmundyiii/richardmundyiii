@@ -14,7 +14,7 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 -->
 
-<div>
+<div style="text-align: center">
   
   ## Find Me
   
