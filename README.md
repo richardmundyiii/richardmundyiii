@@ -1,7 +1,7 @@
 
 
 
-<div style="text-align: center">
+<div align="center">
   
   <img src="https://i.imgur.com/IcMBgum.jpg" width="200" height="200">
 
