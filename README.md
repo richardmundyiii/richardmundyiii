@@ -33,7 +33,7 @@
 
   ## Find Me
   
-    ![Portfolio](https://www.richardmundy.tech)
+    [Portfolio](https://www.richardmundy.tech)
   
   
 </div>
