@@ -33,8 +33,6 @@
 
   ## Find Me
   
-    [Portfolio](https://www.richardmundy.tech)
-  
-  <a href="https://www.richardmundy.tech" target="_blank">Portfolio</a>
+  <a href="https://www.richardmundy.tech" target="_blank">Portfolio</a> | <a href="https://www.linkedin.com/in/richardmundy3">LinkedIn</a> | <a href="https://richardmundy.tech/RichardMundyResume.pdf">Resume</a>
   
 </div>
