@@ -9,7 +9,7 @@
   ![LinkedIn](https://img.shields.io/badge/linkedin-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white)
   ![GitHub](https://img.shields.io/badge/github-%23121011.svg?style=for-the-badge&logo=github&logoColor=white)
   
-  <p>From Touring DJ to Full-Stack Software Engineer</p>
+  <p>As a creative and data-driven web developer with a background in music production, I bring a unique blend of artistry and technical expertise to every project. Utilizing an innovative approach, I create dynamic and engaging online experiences that inspire and connect people.</p>
 
 </div>
 
