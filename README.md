@@ -32,14 +32,16 @@
 
 <div>
 
-[![Contribution Stats](https://github-contribution-stats.vercel.app/api/?username=lorddashme)](https://github.com/LordDashMe/github-contribution-stats/)
-
-</div>
-
-<div>
-
   ## Find Me
   
   <a href="https://www.richardmundy.tech" target="_blank">Portfolio</a> | <a href="https://www.linkedin.com/in/richardmundy3">LinkedIn</a> | <a href="https://richardmundy.tech/RichardMundyResume.pdf">Resume</a>
   
+</div>
+
+<div>
+
+  ## Stats
+
+[![Contribution Stats](https://github-contribution-stats.vercel.app/api/?username=lorddashme)](https://github.com/LordDashMe/github-contribution-stats/)
+
 </div>
